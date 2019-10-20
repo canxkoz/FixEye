@@ -26,7 +26,6 @@ This project is created with the collaboration of 4 undergraduate students.
 2) [Derek Wu](https://github.com/derekwu1)
 3) [Sanjiv Soni](https://github.com/sanjivsoni)
 4) [Schahrouz Kakavand](https://github.com/schahrouz)
-abc
 
 ## Imports 
 imports.py file contains all of the packaged that are necessary fir the 
