@@ -9,16 +9,16 @@ Our Neural network consists of two Filtering layers and a MaxPool Layer. A diagr
 
 ## Accuracy
 ![Accuracy](readme_images/Accuracy.PNG)
-
 The Machine Learning Model has a 78% accuracy in spotting Diabetes by using the Fundus images in the Messidor Datset.
 
 ## Functions
-functions.py includes various histogram equalizing methods in opencv whih allowed us to test out the various outcomes of the testruns that we had in the past.
+functions.py includes various histogram equalizing methods in opencv which allowed us to test out the various outcomes of the test runs that we decided while we were starting to work on the solution.
 
 ## Settings
 settings.py allows an easier platform to edit the learning process.
 
 ## Main
+Imports all of the other functions and trains the Comvolutional Neural Network. 
 
 ## Credits
 This project is created with the collaboration of 4 undergraduate students.
