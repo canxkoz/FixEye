@@ -21,14 +21,14 @@ settings.py allows an easier platform to edit the learning process.
 Imports all of the other functions and trains the Comvolutional Neural Network. 
 
 ## Credits
-This project is created with the collaboration of 4 undergraduate students.
+This project is created with the collaboration of:
 1) [Can Koz](https://github.com/canxkoz)
 2) [Derek Wu](https://github.com/derekwu1)
 3) [Sanjiv Soni](https://github.com/sanjivsoni)
 4) [Schahrouz Kakavand](https://github.com/schahrouz)
 
 ## Imports 
-imports.py file contains all of the packaged that are necessary fir the 
+imports.py file contains all of the packaged that are necessary for the 
 - [Keras](https://keras.io/)
 - [OpenCV](https://opencv.org/)
 - [TensorFlow](https://www.tensorflow.org/)
