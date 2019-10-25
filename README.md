@@ -20,12 +20,15 @@ settings.py allows an easier platform to edit the learning process.
 ## Main
 Imports all of the other functions and trains the Comvolutional Neural Network. 
 
+## More Info
+More information about the aim of our project can be found in the presentation and on [Devpost](https://devpost.com/software/fixeye)
+https://devpost.com/software/fixeye
+
 ## Credits
 This project is created with the collaboration of:
 1) [Can Koz](https://github.com/canxkoz)
-2) [Derek Wu](https://github.com/derekwu1)
-3) [Sanjiv Soni](https://github.com/sanjivsoni)
-4) [Schahrouz Kakavand](https://github.com/schahrouz)
+2) [Sanjiv Soni](https://github.com/sanjivsoni)
+3) [Schahrouz Kakavand](https://github.com/schahrouz)
 
 ## Imports 
 imports.py file contains all of the packaged that are necessary for the 
