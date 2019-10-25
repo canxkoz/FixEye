@@ -22,7 +22,6 @@ Imports all of the other functions and trains the Comvolutional Neural Network.
 
 ## More Info
 More information about the aim of our project can be found in the presentation and on [Devpost](https://devpost.com/software/fixeye)
-https://devpost.com/software/fixeye
 
 ## Credits
 This project is created with the collaboration of:
