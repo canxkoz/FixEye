@@ -1,11 +1,11 @@
 # FixEye
 
-Health++ 2019 Project: An approach to non invasive and preventive healthcare solution for low resource conditions. This part of our project is built to prove that retinal images can be used in the diagnosis of diseases such as Diabetes and permanenert Optic Neural Damage casued by Diabetes. We made use of the Messidor Dataset in order to train our Neural Network. Special thanks to Michael D. Abramoff, MD, PhD and his extraordinary in the field of Retinal Imaging. Without the Messidor dataset, we would not be able to use another publicly available dataset, in order to achieve the 78% accuracy.
+health++ Stanford’s Health Hackathon 2019 project: Low resource areas lack preventive and screening services, which causes millions of deaths per year. Our mission is to detect chronic diseases through non-invasive retinal scans. We trained a convolutional neural network in order to determine if someone has a chance of having Diabetic Retinopathy. We used the Messidor dataset to train our model. Special thanks to Michael D. Abramoff, MD, PhD, who is an expert in the field of Retinal Imaging, for making this dataset publicly available. By using his dataset, we are able to determine if a person has the possibility of having Diabetic Retinopathy with an accuracy of 78%.
 
 ## Neural Networks
 ![Diagram](readme_images/Neural_Net_Diagram.png)
 
-Our Neural network consists of two Filtering layers and a MaxPool Layer. A diagram of the Machine Learning algorithm can be seen on the figure above. neural_networks.py includes the steps above.
+Our neural network consists of two filtering layers and a MaxPool layer. A diagram of the Machine Learning algorithm can be seen above. neural_networks.py includes the steps above.
 
 ## Accuracy
 ![Accuracy](readme_images/Accuracy.PNG)
