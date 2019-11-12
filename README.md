@@ -18,7 +18,7 @@ functions.py includes various histogram equalizing methods in opencv, which allo
 settings.py allows an easier platform to edit the learning process.
 
 ## Main
-Imports all the other functions and trains the comvolutional neural network. 
+Imports all the other functions and trains the convolutional neural network. 
 
 ## More Info
 More information about the aim of our project can be found in the presentation and on [Devpost](https://devpost.com/software/fixeye)
