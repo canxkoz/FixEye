@@ -5,20 +5,20 @@ health++ Stanford’s Health Hackathon 2019 project: Low resource areas lack pre
 ## Neural Networks
 ![Diagram](readme_images/Neural_Net_Diagram.png)
 
-Our neural network consists of two filtering layers and a MaxPool layer. A diagram of the Machine Learning algorithm can be seen above. neural_networks.py includes the steps above.
+Our neural network consists of two filtering layers and a MaxPool layer. A diagram of our Machine Learning algorithm can be seen above. neural_networks.py includes these above steps.
 
 ## Accuracy
 ![Accuracy](readme_images/Accuracy.PNG)
-The Machine Learning Model has a 78% accuracy in spotting Diabetes by using the Fundus images in the Messidor Datset.
+Our Machine Learning Model has a 78% accuracy in detecting Diabetic Retinopathy by using the fundus images from the Messidor dataset.
 
 ## Functions
-functions.py includes various histogram equalizing methods in opencv which allowed us to test out the various outcomes of the test runs that we decided while we were starting to work on the solution.
+functions.py includes various histogram equalizing methods in opencv, which allowed us to check out the various outcomes of the test runs.
 
 ## Settings
 settings.py allows an easier platform to edit the learning process.
 
 ## Main
-Imports all of the other functions and trains the Comvolutional Neural Network. 
+Imports all the other functions and trains the comvolutional neural network. 
 
 ## More Info
 More information about the aim of our project can be found in the presentation and on [Devpost](https://devpost.com/software/fixeye)
