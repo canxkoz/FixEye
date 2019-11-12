@@ -24,13 +24,13 @@ Imports all the other functions and trains the comvolutional neural network.
 More information about the aim of our project can be found in the presentation and on [Devpost](https://devpost.com/software/fixeye)
 
 ## Credits
-This project is created with the collaboration of:
+This project was created with the collaboration of:
 1) [Can Koz](https://github.com/canxkoz)
 2) [Sanjiv Soni](https://github.com/sanjivsoni)
 3) [Schahrouz Kakavand](https://github.com/schahrouz)
 
 ## Imports 
-imports.py file contains all of the packaged that are necessary for the 
+imports.py contains everything that is necessary for 
 - [Keras](https://keras.io/)
 - [OpenCV](https://opencv.org/)
 - [TensorFlow](https://www.tensorflow.org/)
